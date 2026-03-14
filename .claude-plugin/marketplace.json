@@ -15,7 +15,7 @@
         "repo": "SteeZyT33/perf-lab-plugin"
       },
       "description": "Autonomous multi-agent performance optimization. Experiment tracking, breakthrough detection, fleet orchestration, and knowledge curation.",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "author": {
         "name": "S. Taylor Labs"
       },
