@@ -11,8 +11,8 @@
     {
       "name": "perf-lab",
       "source": {
-        "source": "github",
-        "repo": "SteeZyT33/perf-lab-plugin"
+        "source": "url",
+        "url": "https://github.com/SteeZyT33/perf-lab-plugin.git"
       },
       "description": "Autonomous multi-agent performance optimization. Experiment tracking, breakthrough detection, fleet orchestration, and knowledge curation.",
       "version": "3.0.0",
