@@ -12,16 +12,16 @@
       "name": "perf-lab",
       "source": {
         "source": "github",
-        "repo": "SteeZyT33/perf-lab-plugin"
+        "repo": "SteeZyT33/perf-lab"
       },
-      "description": "Autonomous multi-agent performance optimization. Experiment tracking, breakthrough detection, fleet orchestration, and knowledge curation.",
-      "version": "4.0.1",
+      "description": "Coworking research system for complex technical investigations. Multi-agent fleet orchestration with experiment tracking, breakthrough detection, and knowledge curation.",
+      "version": "5.0.0",
       "author": {
         "name": "S. Taylor Labs"
       },
-      "repository": "https://github.com/SteeZyT33/perf-lab-plugin",
+      "repository": "https://github.com/SteeZyT33/perf-lab",
       "license": "MIT",
-      "keywords": ["performance", "optimization", "multi-agent", "experiments", "autoresearch"],
+      "keywords": ["performance", "optimization", "multi-agent", "experiments", "autoresearch", "coworking"],
       "category": "productivity"
     }
   ]
